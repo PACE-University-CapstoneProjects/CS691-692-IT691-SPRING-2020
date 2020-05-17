@@ -1,11 +1,12 @@
 # TEAM1-CS691-692-IT691-SPRING-2020
-Software Bug Triage Using Machine Learning and Natural Language Processing
+
+Title: Software Bug Triage Using Machine Learning and Natural Language Processing
 
 Team Members: Frank Russo, Ramya Raju, Carlo Clarke.
 
 Customers: Ning Yang, Anthony Escalona.
 
-All software written even today has bugs or defects.
+Abstract: All software written even today has bugs or defects.
 It is critical to fix bugs as quickly and efficiently as possible.
 Triaging bugs can be time-consuming, especially on larger teams
 or with larger projects. The process of assigning bugs to the
